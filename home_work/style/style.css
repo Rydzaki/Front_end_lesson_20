@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.exercise1{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+}
+.exercise2{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.exercise2 input{
+    width: 200px;
+    height: 40px;
+    margin: 50px;
+}
+
+.exercise3 div{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    margin: 50px;
+    border: 2px solid black;
+    background-color: brown;
+    color: white;
+    font-style: oblique;
+}
+
+.exercise1{
+    margin: 20px;
+}
+.exercise2{
+    margin: 20px;
+}
+.exercise3{
+    margin: 20px;
+}
+
+
